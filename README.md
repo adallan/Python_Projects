@@ -8,5 +8,3 @@ Some projects included are:
 
 Inverted index project
 
-Webcraping Project:
-  Coming soon!!!
